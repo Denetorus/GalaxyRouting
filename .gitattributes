@@ -1,0 +1,5 @@
+/.idea export-ignore
+/AGENTS.md export-ignore
+/vendor export-ignore
+/composer.lock export-ignore
+/.phpunit.cache export-ignore
