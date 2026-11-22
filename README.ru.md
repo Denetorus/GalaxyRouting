@@ -12,4 +12,14 @@ GalaxyRouting выбирает один адаптер по точному ил�
 Требования: PHP >=8.4 и denetorus/galaxy-result ^0.2.0.
 Dev-зависимость: phpunit/phpunit ^13.4.
 
+## Установка
+
+Установите опубликованный пакет из [Packagist](https://packagist.org/packages/denetorus/galaxy-routing):
+
+```bash
+composer require denetorus/galaxy-routing:0.1.0
+```
+
+Composer также установит необходимую зависимость GalaxyResult. Дополнительная настройка репозиториев не нужна.
+
 Лицензия: [MIT](LICENSE).

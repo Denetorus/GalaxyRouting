@@ -12,4 +12,14 @@ presentation boundaries, setup commands and executable example are defined in
 Requirements: PHP >=8.4 and denetorus/galaxy-result ^0.2.0.
 Development dependency: phpunit/phpunit ^13.4.
 
+## Installation
+
+Install the published package from [Packagist](https://packagist.org/packages/denetorus/galaxy-routing):
+
+```bash
+composer require denetorus/galaxy-routing:0.1.0
+```
+
+Composer also installs the required GalaxyResult dependency. No custom repository configuration is needed.
+
 License: [MIT](LICENSE).
